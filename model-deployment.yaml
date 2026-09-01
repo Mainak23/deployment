@@ -1,6 +1,6 @@
 containers:
-  - name: ml-serving2
-    image: ml-serving:1
+  - name: ml-serving3
+    image: ml-serving:2
 
     ports:
       - containerPort: 8080
